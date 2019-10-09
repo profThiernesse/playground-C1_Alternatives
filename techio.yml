@@ -25,8 +25,8 @@ plan:
 - title: Exercice 12
   statement: markdowns/alternative12.md
 projects:
-  cpp:
-    root: /cpp-project
+  exercices:
+    root: /exercices
     runner:
       name: techio/cmake-gcc-runner
       version: latest
